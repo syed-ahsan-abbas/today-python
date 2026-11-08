@@ -7,4 +7,4 @@ jobs:
     runs-on: ubuntu-latest
     tasks:
       - echo: "Hello Doston"
-    - echo: "Aoa"
+      - echo: "Aoa"
