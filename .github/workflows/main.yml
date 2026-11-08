@@ -1,0 +1,9 @@
+name: Workflow
+on: 
+  push: 
+    branches: main
+jobs:
+  runs-on: ubuntu-latest
+  tasks:
+    - echo: "Hello Doston"
+    - echo: "Aoa"
