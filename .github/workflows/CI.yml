@@ -1,0 +1,7 @@
+name: Continous Integration
+jobs:
+  Say Hello:
+    runs-on: ubuntu-latest
+    steps:
+      - echo: "Hello Doston"
+        run: "Run this workflow"
